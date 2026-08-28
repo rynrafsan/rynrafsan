@@ -37,9 +37,8 @@ I'm a final-year Computer Science & Engineering student at **Daffodil Internatio
 | Project | Description |
 |---|---|
 | **[Multi-Accent-Demography-Machine-Learning-Model](https://github.com/rynrafsan/Multi-Accent-Demography-Machine-Learning-Model)** | Dual-branch deep learning system classifying regional Bangladeshi dialect, gender & age from speech — ResNet-50 (Mel-spectrograms) + Bi-LSTM (MFCCs), trained on RBVD & Mozilla Common Voice Bengali. *Final Year Design Project.* |
-| **[Chakma POS Tagging Dataset](#)** | Part-of-speech tagged dataset for the Chakma language — published in *Data in Brief*. |
 | **[Pothole Detection & Severity Classification](#)** | Computer vision system detecting potholes and classifying severity, trained on public datasets via Colab/Kaggle. |
-| **[Roommate Matching Platform](#)** | Full-stack platform matching Dhaka students by lifestyle compatibility — FastAPI + PostgreSQL backend, Next.js + Tailwind frontend, with bKash/Nagad escrow and NID verification. |
+| **[Employee Attrition v2](https://github.com/rynrafsan/Employee-Attrition-v2)** | Deployed Streamlit app estimating employee attrition risk, with per-prediction SHAP explainability and a plain-language risk summary. MLP classifier selected for best F1/recall on the IBM HR Analytics dataset. |
 | **[ATM Cash Tracker](#)** | Cross-platform Flutter app (web + Android) tracking ATM cash availability using Firebase, Google Maps, and geolocation. |
 
 > Replace the `#` links above with your actual repo URLs once you've renamed/pinned them.
