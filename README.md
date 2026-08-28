@@ -50,10 +50,10 @@ I'm a final-year Computer Science & Engineering student at **Daffodil Internatio
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rynrafsan&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynrafsan&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rynrafsan&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rynrafsan&layout=compact&theme=dracula&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rynrafsan&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rynrafsan&theme=dracula&hide_border=true" />
 
 </div>
 
