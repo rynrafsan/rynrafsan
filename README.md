@@ -36,7 +36,7 @@ I'm a final-year Computer Science & Engineering student at **Daffodil Internatio
 
 | Project | Description |
 |---|---|
-| **[Multi-Accent-Demography-Machine-Learning-Model(#)** | Dual-branch deep learning system classifying regional Bangladeshi dialect, gender & age from speech — ResNet-50 (Mel-spectrograms) + Bi-LSTM (MFCCs), trained on RBVD & Mozilla Common Voice Bengali. *Final Year Design Project.* |
+| **[Multi-Accent-Demography-Machine-Learning-Model](https://github.com/rynrafsan/Multi-Accent-Demography-Machine-Learning-Model)** | Dual-branch deep learning system classifying regional Bangladeshi dialect, gender & age from speech — ResNet-50 (Mel-spectrograms) + Bi-LSTM (MFCCs), trained on RBVD & Mozilla Common Voice Bengali. *Final Year Design Project.* |
 | **[Chakma POS Tagging Dataset](#)** | Part-of-speech tagged dataset for the Chakma language — published in *Data in Brief*. |
 | **[Pothole Detection & Severity Classification](#)** | Computer vision system detecting potholes and classifying severity, trained on public datasets via Colab/Kaggle. |
 | **[Roommate Matching Platform](#)** | Full-stack platform matching Dhaka students by lifestyle compatibility — FastAPI + PostgreSQL backend, Next.js + Tailwind frontend, with bKash/Nagad escrow and NID verification. |
