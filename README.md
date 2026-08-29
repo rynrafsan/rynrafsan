@@ -41,7 +41,6 @@ I'm a final-year Computer Science & Engineering student at **Daffodil Internatio
 | **[Employee Attrition v2](https://github.com/rynrafsan/Employee-Attrition-v2)** | Deployed Streamlit app estimating employee attrition risk, with per-prediction SHAP explainability and a plain-language risk summary. MLP classifier selected for best F1/recall on the IBM HR Analytics dataset. |
 | **[ATM Cash Tracker](#)** | Cross-platform Flutter app (web + Android) tracking ATM cash availability using Firebase, Google Maps, and geolocation. |
 
-> Replace the `#` links above with your actual repo URLs once you've renamed/pinned them.
 
 ---
 
