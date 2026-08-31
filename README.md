@@ -55,8 +55,3 @@ I'm a final-year Computer Science & Engineering student at **Daffodil Internatio
 
 </div>
 
----
-
-<div align="center">
-<sub>Built with 🖤 in Dhaka</sub>
-</div>
